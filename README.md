@@ -2,6 +2,10 @@
 
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
+## Cours de Licence
+
+https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
+
 ## Cours de Master
 
 ### Cours de M2IF
