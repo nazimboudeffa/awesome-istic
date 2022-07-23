@@ -36,9 +36,11 @@ https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
 | SOS  | Software Analysis and Security                                        |           | [Homepage](https://www.irisa.fr/celtique/teaching/SOS/)                                                                                 | 2022-07-12            |
 | VRI  | Virtual Reality and Multi-Sensory Interaction Course                  |           | [Homepage](https://people.irisa.fr/ferran.argelaguet/courses/VRI.html)                                                                  | 2022-07-12            |
 
-# Students
+# Active Students on GitHub
 
 https://github.com/nazimboudeffa
+
+https://github.com/theogiraudet
 
 https://github.com/coco33920
 
