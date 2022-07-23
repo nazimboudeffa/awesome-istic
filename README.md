@@ -38,12 +38,8 @@ https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
 
 # Active Students on GitHub
 
-https://github.com/nazimboudeffa
-
-https://github.com/theogiraudet
-
-https://github.com/Lugrim
-
-https://github.com/coco33920
-
-https://github.com/3l0w
+* https://github.com/nazimboudeffa
+* https://github.com/theogiraudet
+* https://github.com/Lugrim
+* https://github.com/coco33920
+* https://github.com/3l0w
