@@ -35,3 +35,9 @@ https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
 | SML  | Supervised Machine Learning                                           |           | [Homepage](https://people.rennes.inria.fr/Francois.Coste/sml/)                                                                          | 2022-07-12            |
 | SOS  | Software Analysis and Security                                        |           | [Homepage](https://www.irisa.fr/celtique/teaching/SOS/)                                                                                 | 2022-07-12            |
 | VRI  | Virtual Reality and Multi-Sensory Interaction Course                  |           | [Homepage](https://people.irisa.fr/ferran.argelaguet/courses/VRI.html)                                                                  | 2022-07-12            |
+
+# Students
+
+https://github.com/nazimboudeffa
+https://github.com/coco33920
+https://github.com/3l0w
