@@ -2,6 +2,8 @@
 
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
+Les bâtiments de cours sont 12D et 2B (aussi appelé bato) principalement et éventuellement le 42 et le 2A parfois
+
 ## Cours de Licence
 
 https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
