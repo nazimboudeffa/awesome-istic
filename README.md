@@ -12,7 +12,7 @@ Les bâtiments de cours sont 12D et 2B (aussi appelé bato) principalement et é
 - [Licence 2](L2.md)
 - [Licence 3](L3.md)
 - Master 1
-- [Master 2](m2.md)
+- [Master 2](M2.md)
 - Doctorat
 
 # More
