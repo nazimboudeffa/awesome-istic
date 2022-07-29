@@ -1,6 +1,6 @@
 ## Cours de Licence
 
-https://www.notion.so/Universit-bb2afc9619484bb0a2d801f2b807036c
+...
 
 ## Cours de Master
 
