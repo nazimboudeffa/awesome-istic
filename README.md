@@ -8,8 +8,8 @@ Les bâtiments de cours sont 12D et 2B (aussi appelé bato) principalement et é
 
 # Index
 
-- L1
-- [L2](L2.md)
-- [L3](L3.md)
-- M1
-- [M2](m2.md)
+- Licence 1
+- [Licence 2](L2.md)
+- [Licence 3](L3.md)
+- Master 1
+- [Master 2](m2.md)
