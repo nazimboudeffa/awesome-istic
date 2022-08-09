@@ -10,6 +10,8 @@ La licence c'est 60h de travail dont 20h de cours par semaine
 
 Un crédit c'est 25-30 heures de travail (perso + cours), une U.E. de 5 crédits est donc entre 125 et 150 heures de travail, une année de licence c'est 60 crédits
 
+À raison de 14 semaine par semestre ça ferait 65h par semaine
+
 # Index
 
 - Licence 1
