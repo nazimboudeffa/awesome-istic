@@ -3,6 +3,7 @@
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
 COMPTE OFFICIEL GITHUB https://github.com/istic-student (to be changed to istic-school after big decisions) 
+SITE DU BDE https://lapalme.netlify.app/
 
 ![map](map.png)
 
