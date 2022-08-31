@@ -2,6 +2,8 @@
 
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
+COMPTE OFFICIEL (to be changed to istic-school) https://github.com/istic-student
+
 ![map](map.png)
 
 Les bâtiments de cours sont 12D et 2B (aussi appelé bato) principalement et éventuellement le 42 et le 2A parfois
