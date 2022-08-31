@@ -2,7 +2,7 @@
 
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
-COMPTE OFFICIEL (to be changed to istic-school) https://github.com/istic-student
+COMPTE OFFICIEL https://github.com/istic-student (to be changed to istic-school) 
 
 ![map](map.png)
 
