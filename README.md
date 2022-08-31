@@ -7,6 +7,7 @@ COMPTE OFFICIEL GITHUB des étudiants https://github.com/istic-student
 COMPTE OFFICIEL GITHUB des profs https://github.com/ISTICUniversityOfRennes1 (to be changed to istic-school after big decisions) 
 
 SITE DU BDE https://lapalme.netlify.app/
+SITE PALME OFFICIEL https://etudiant.univ-rennes1.fr/palme
 
 ![map](map.png)
 
