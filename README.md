@@ -17,6 +17,8 @@ Un crédit c'est 25-30 heures de travail (perso + cours), une U.E. de 5 crédits
 
 À raison de 14 semaine par semestre ça ferait 65h par semaine
 
+Les TD ne sont pas obligatoires comme les CM juste qu'ils font l'appel aux TD et a la fin de l'année si tu es juste le jury est moins sympa si tu a beaucoup d'absences.  Les TP eux tu à la droit à 1 absence non justifiée par TP après ça tu as 0 en note de TP
+
 # Index
 
 - Licence 1
