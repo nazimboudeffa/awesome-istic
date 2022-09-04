@@ -44,6 +44,8 @@ https://amzn.to/2IDJgiA
 Calculus by James Stewart
 https://amzn.to/39Teb5H
 
+dispo mais faut être connecté
+
 Calculus by Michael Spivak
 https://amzn.to/37MhV6o
 
@@ -55,6 +57,8 @@ https://amzn.to/3m2J6ib
 
 Elementary Linear Algebra by Howard Anton
 https://amzn.to/3m6RSMa
+
+sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1027425608&lang=fr&site=eds-live)
 
 Linear Algebra by Friedgber, Insel, and Spence
 https://amzn.to/37428AK
