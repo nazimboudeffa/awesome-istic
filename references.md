@@ -17,9 +17,7 @@ Discrete Mathematical Structures by Kolman, Busby, and Ross
 https://amzn.to/2LouD3B
 
 Mathematical Proofs: A Transition to Advanced Mathematics by Chartrand, Polimeni, and Zhang
-https://amzn.to/33ZXRfv 
-
-sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286525&lang=fr&site=eds-live)
+https://amzn.to/33ZXRfv, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286525&lang=fr&site=eds-live)
 
 An Introduction to Abstract Mathematics by Bond and Keane
 https://amzn.to/37OFE5Q
@@ -34,17 +32,13 @@ College Algebra by Kaufmann
 https://amzn.to/3oEsGhG
 
 College Algebra by Blitzer
-https://amzn.to/39XYGJO 
-
-sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286435&lang=fr&site=eds-live)
+https://amzn.to/39XYGJO, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286435&lang=fr&site=eds-live)
 
 A Graphical Approach to Algebra and Trigonometry by Hornsby, Lial, and Rockswold
 https://amzn.to/2IDJgiA
 
 Calculus by James Stewart
-https://amzn.to/39Teb5H
-
-dispo mais faut être connecté
+https://amzn.to/39Teb5H, dispo mais faut être connecté
 
 Calculus by Michael Spivak
 https://amzn.to/37MhV6o
@@ -56,9 +50,7 @@ Ordinary Differential Equations with Applications by Andrews
 https://amzn.to/3m2J6ib
 
 Elementary Linear Algebra by Howard Anton
-https://amzn.to/3m6RSMa
-
-sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1027425608&lang=fr&site=eds-live)
+https://amzn.to/3m6RSMa, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1027425608&lang=fr&site=eds-live)
 
 Linear Algebra by Friedgber, Insel, and Spence
 https://amzn.to/37428AK
@@ -67,15 +59,13 @@ Mathematical Statistics by Wackerly, Mendenhall, and Scheaffer
 https://amzn.to/2IDL3UQ
 
 A First Course in Probability by Ross
-https://amzn.to/3m6SwJA
-
-il faut être authentifié pour accèder
+https://amzn.to/3m6SwJA, il faut être authentifié pour accèder
 
 Fundamentals of Complex Analysis by Saff and Snider
 https://amzn.to/36ZpNSL
 
 Complex Variables and Applications by Brown and Churchill
-https://amzn.to/3722Bn1
+https://amzn.to/3722Bn1, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat06143a&AN=bur.106594&lang=fr&site=eds-live)
 
 Analysis 1 and Analysis 2 by Terrance Tao
 https://amzn.to/2IDMliE
@@ -84,7 +74,7 @@ Advanced Calculus by Fitzpatrick
 https://amzn.to/3gujBp3
 
 Principles of Mathematical Analysis by Rudin
-https://amzn.to/3gute6U
+https://amzn.to/3gute6U, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsair&AN=edsair.doi...........b1b43ed4aa8bc7c377f1e0ef2fed4a84&lang=fr&site=eds-live)
 
 Elements ofAnalysis by Ross
 https://amzn.to/372irhq
@@ -93,13 +83,13 @@ Abstract Algebra by Saracino
 https://amzn.to/3n27q56
 
 Contemporary Abstract Algebra by Gallian
-https://amzn.to/3708ZLe
+https://amzn.to/3708ZLe, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1027423228&lang=fr&site=eds-live)
 
 Introduction to Topology by Gamelin and Greene
 https://amzn.to/3m2vuUm
 
 Applied Combinatorics by Tucker
-https://amzn.to/3m4xJGs
+https://amzn.to/3m4xJGs, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsair&AN=edsair.doi...........c307cfd43b45bb7bfec7a24db0479185&lang=fr&site=eds-live)
 
 Naive Set Theory by Halmos
 https://amzn.to/3gyF7Zu
