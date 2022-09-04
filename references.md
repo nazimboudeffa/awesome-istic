@@ -69,6 +69,8 @@ https://amzn.to/2IDL3UQ
 A First Course in Probability by Ross
 https://amzn.to/3m6SwJA
 
+il faut être authentifié pour accèder
+
 Fundamentals of Complex Analysis by Saff and Snider
 https://amzn.to/36ZpNSL
 
