@@ -2,7 +2,7 @@
 
 todo
 
-# MATHS
+# MATHS dispo sur Internet
 
 https://www.youtube.com/watch?v=pTnEG_WGd2Q
 
