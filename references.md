@@ -1,5 +1,7 @@
 # MATHS dispo à la BU
 
+https://bibliotheques.univ-rennes1.fr/bu-beaulieu
+
 todo
 
 # MATHS dispo sur Internet
