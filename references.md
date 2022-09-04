@@ -92,39 +92,39 @@ Applied Combinatorics by Tucker
 https://amzn.to/3m4xJGs, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsair&AN=edsair.doi...........c307cfd43b45bb7bfec7a24db0479185&lang=fr&site=eds-live)
 
 Naive Set Theory by Halmos
-https://amzn.to/3gyF7Zu
+https://amzn.to/3gyF7Zu, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat06143a&AN=bur.69326&lang=fr&site=eds-live)
 
 Functional Analysis by Kreyszig
 https://amzn.to/2Iyxnud
 
 Graph Theory by Gould
-https://amzn.to/3m59MPr
+https://amzn.to/3m59MPr, il existe plusieurs livres avec le même titre
 
 Real Analysis by Royden
-https://amzn.to/2Ka0VyN
+https://amzn.to/2Ka0VyN, il existe plusieurs livres avec le même titre
 
 Real and Complex Analysis by Rudin
 https://amzn.to/3lYtEnb
 
 Linear Algebra by Lang
-https://amzn.to/33WBho2
+https://amzn.to/33WBho2, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=2768098&lang=fr&site=eds-live)
 
 Linear Algebra by Hoffman and Kunze
-https://amzn.to/39VIb0L
+https://amzn.to/39VIb0L, il existe plusieurs livres avec le même titre
 
 Algebra by Artin
 https://amzn.to/3qL9JM4
 
 Calculus Made Easy by Thompson
-https://amzn.to/3a0gFiy
+https://amzn.to/3a0gFiy, sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsbas&AN=edsbas.F779E651&lang=fr&site=eds-live)
 
 Geometry by Jurgensen
 https://amzn.to/3qCFkzL
 
 Schaum's Linear Algebra
-https://amzn.to/2VVt3IB
+https://amzn.to/2VVt3IB, un livre qui y ressemble sur [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat06143a&AN=bur.102642&lang=fr&site=eds-live)
 
 Linear Algebra by Strang
-https://amzn.to/3418sqB
+https://amzn.to/3418sqB, y a un livre qui y ressemble mais faut être authentifié
 
 (the above links are my amazon affiliate links)
