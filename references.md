@@ -19,6 +19,8 @@ https://amzn.to/2LouD3B
 Mathematical Proofs: A Transition to Advanced Mathematics by Chartrand, Polimeni, and Zhang
 https://amzn.to/33ZXRfv
 
+https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286525&lang=fr&site=eds-live
+
 An Introduction to Abstract Mathematics by Bond and Keane
 https://amzn.to/37OFE5Q
 
