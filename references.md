@@ -17,9 +17,7 @@ Discrete Mathematical Structures by Kolman, Busby, and Ross
 https://amzn.to/2LouD3B
 
 Mathematical Proofs: A Transition to Advanced Mathematics by Chartrand, Polimeni, and Zhang
-https://amzn.to/33ZXRfv
-
-https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286525&lang=fr&site=eds-live
+https://amzn.to/33ZXRfv [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286525&lang=fr&site=eds-live)
 
 An Introduction to Abstract Mathematics by Bond and Keane
 https://amzn.to/37OFE5Q
@@ -34,7 +32,7 @@ College Algebra by Kaufmann
 https://amzn.to/3oEsGhG
 
 College Algebra by Blitzer
-https://amzn.to/39XYGJO
+https://amzn.to/39XYGJO [SUPERNOVA](https://passerelle.univ-rennes1.fr/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsoai&AN=edsoai.on1077286435&lang=fr&site=eds-live)
 
 A Graphical Approach to Algebra and Trigonometry by Hornsby, Lial, and Rockswold
 https://amzn.to/2IDJgiA
