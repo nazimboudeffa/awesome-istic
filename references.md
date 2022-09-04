@@ -1,3 +1,5 @@
+TAKING THIS VID
+
 https://www.youtube.com/watch?v=pTnEG_WGd2Q
 
 Here are the books that showed up in this video(in order) on amazon.
