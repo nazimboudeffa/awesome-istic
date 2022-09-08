@@ -2,7 +2,21 @@
 
 https://bibliotheques.univ-rennes1.fr/bu-beaulieu
 
-todo
+## LOG L3
+
+- R. Caferra, Logique pour l'informatique et pour l'intelligence artificielle, Hermes Science Publications, 2011. Empruntable à l'ENSSAT
+- A. Arnold, & I. Guessarian, Mathématiques pour l'informatique. France: Masson, 1993. Empruntable à la BU Sciences et Philosophie
+- P. Dehornoy, Mathématiques de l'informatique, Dunod 2001. Empruntable à la BU Sciences et Philosophie
+- R. Cori et D. Lascar, Logique Mathématique (2 tomes), Dunod, 2003. À la BU Sciences et Philosophie
+- R. David, K. Nour, C. Raffalli, Introduction à la logique - théorie de la démonstration, Dunod, 2001. Empruntable à la BU Sciences et Philosophie
+- J. Stern, Fondements mathématiques de l'informatique, Mc Graw-Hill, 1990.)  Empruntable à l'ENSSAT
+- A. Aho et J. Ullman, Concepts fondamentaux de l'informatique, Dunod, 1993. Empruntable à la BU Sciences et Philosophie
+- R. Lassaigne et M. De Rougemont, Logique et complexité, Hermes.
+- J-Y. Girard, K. Gödel, E. Nagel, J.R. Newman, Le Théorème de Gödel, Seuil (existe en poche).
+- M. Ben-Ari, Mathematical logic for computer science. Springer Science & Business Media, 2012.
+- J. Barwise, An introduction to first-order logic. Studies in Logic and the Foundations of Mathematics, 90, 5-46, 1977.
+- Handbook of mathematical logic (Vol. 90). Elsevier, 1982.
+- H.B. Enderton, A Mathematical Introduction to Logic (1 ed.). Academic Press Second edition, 2001.
 
 - https://www.goodreads.com/book/show/138565.Elements_of_the_Theory_of_Computation
 
