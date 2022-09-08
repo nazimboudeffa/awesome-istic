@@ -4,6 +4,8 @@ https://bibliotheques.univ-rennes1.fr/bu-beaulieu
 
 todo
 
+- https://www.goodreads.com/book/show/138565.Elements_of_the_Theory_of_Computation
+
 # MATHS dispo sur Internet
 
 https://www.youtube.com/watch?v=pTnEG_WGd2Q
