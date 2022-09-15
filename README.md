@@ -21,11 +21,19 @@ Les TD ne sont pas obligatoires comme les CM juste qu'ils font l'appel aux TD et
 
 # Index
 
-- Licence 1
-- [Licence 2](L2.md)
-- [Licence 3](L3.md)
-- Master 1
-- [Master 2](M2.md)
+- Licence
+
+https://formations.univ-rennes1.fr/licence-mention-informatique-parcours-informatique
+
+  - Licence 1
+  - [Licence 2](L2.md)
+  - [Licence 3](L3.md)
+
+- Master
+
+  - Master 1
+  - [Master 2](M2.md)
+
 - Doctorat
 
 # More
