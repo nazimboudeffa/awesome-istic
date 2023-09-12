@@ -2,6 +2,8 @@
 
 Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 
+# Liens
+
 * COMPTE OFFICIEL GITHUB des étudiants https://github.com/istic-student 
 * COMPTE OFFICIEL GITHUB des profs https://github.com/ISTICUniversityOfRennes1 (to be changed to istic-school after big decisions) 
 * SITE DU BDE https://lapalme.netlify.app/ (temporaire ? ou remplacant de https://bde-palme.fr sur YAPLA ?)
