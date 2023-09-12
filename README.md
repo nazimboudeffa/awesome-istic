@@ -7,6 +7,7 @@ Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 * SITE DU BDE https://lapalme.netlify.app/ (temporaire ? ou remplacant de https://bde-palme.fr sur YAPLA ?)
 * SITE PALME OFFICIEL https://etudiant.univ-rennes1.fr/palme (TODO 31/08/2022 changer le LOGO 2020-2021)
 * Insta PALME https://www.instagram.com/bde_palme/
+* Linktree de la PALME https://linktr.ee/lapalme
 
 RTFM https://istic-student.github.io/Rennes-1-RTFM/
 
