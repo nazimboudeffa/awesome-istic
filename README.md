@@ -6,6 +6,7 @@ Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 * COMPTE OFFICIEL GITHUB des profs https://github.com/ISTICUniversityOfRennes1 (to be changed to istic-school after big decisions) 
 * SITE DU BDE https://lapalme.netlify.app/ (temporaire ? ou remplacant de https://bde-palme.fr sur YAPLA ?)
 * SITE PALME OFFICIEL https://etudiant.univ-rennes1.fr/palme (TODO 31/08/2022 changer le LOGO 2020-2021)
+* Insta PALME https://www.instagram.com/bde_palme/
 
 RTFM https://istic-student.github.io/Rennes-1-RTFM/
 
