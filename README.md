@@ -10,6 +10,7 @@ Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 * SITE PALME OFFICIEL https://etudiant.univ-rennes1.fr/palme (TODO 31/08/2022 changer le LOGO 2020-2021)
 * Insta PALME https://www.instagram.com/bde_palme/
 * Linktree de la PALME https://linktr.ee/lapalme
+* TRouver un livre à la BU https://research.ebsco.com/c/t7azul/
 
 RTFM https://istic-student.github.io/Rennes-1-RTFM/
 
