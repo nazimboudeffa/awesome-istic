@@ -44,3 +44,5 @@ Les TD ne sont pas obligatoires comme les CM juste qu'ils font l'appel aux TD et
 # More
 
 [On my Notion](https://codewithadude.notion.site/Universit-mes-tudes-universitaires-bb2afc9619484bb0a2d801f2b807036c?pvs=4)
+
+https://istic.univ-rennes.fr/de-lifsic-listic
