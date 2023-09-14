@@ -34,7 +34,7 @@ Les TD ne sont pas obligatoires comme les CM juste qu'ils font l'appel aux TD et
   - [Licence 2](L2.md)
   - [Licence 3](L3.md)
 
-- Master
+- Master https://istic.univ-rennes.fr/master-informatique
 
   - Master 1
   - [Master 2](M2.md)
