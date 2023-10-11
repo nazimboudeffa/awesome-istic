@@ -12,6 +12,7 @@ Liste des cours disponibles publiquement que nous sommes autorisé à diffuser
 * Linktree de la PALME https://linktr.ee/lapalme
 * Trouver un livre à la BU https://research.ebsco.com/c/t7azul/
 * Le site officiel 2023/2024 https://www.bdepalme.fr/l-asso/
+* Payer sa cotisation 2023/2024 https://www.helloasso.com/associations/palme
 
 RTFM https://istic-student.github.io/Rennes-1-RTFM/
 
