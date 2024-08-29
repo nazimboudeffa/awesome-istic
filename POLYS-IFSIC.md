@@ -79,7 +79,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 117	Master Mention Informatique 1ère année : cours de compilation	O. Ridoux	148	4
 
-118	Licence Sciences et Technologies 2ème année (Parcours MIPE)Module API Approche imp�rative. Mise en �uvre en Java	J. Barr�,P. Le certen,Y. Le Tertre, L. Morin, L. Ungaro	292	9
+118	Licence Sciences et Technologies 2ème année (Parcours MIPE)Module API Approche imp�rative. Mise en oeuvre en Java	J. Barr�,P. Le certen,Y. Le Tertre, L. Morin, L. Ungaro	292	9
 
 119	Développement de logiciel & objets avec UML	J.M. Jézéquel, N. Plouzeau, Y. Le Traon	142	4
 
