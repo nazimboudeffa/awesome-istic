@@ -25,9 +25,9 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 81	Le langage C. Définition de la norme ANSI	J.L. Nebut	81	2
 
-82	Synth�se d'images	K. Bouatouch, C.Bouville	86	3
+82	Synthèse d'images	K. Bouatouch, C.Bouville	86	3
 
-83	La mod�lisation des scènes tridimensionnelles	G. Hegron	75	2
+83	La modélisation des scènes tridimensionnelles	G. Hegron	75	2
 
 87	Probabilités appliquées	R. Marie	139	4
 
