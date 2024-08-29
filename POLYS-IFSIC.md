@@ -19,7 +19,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 75	Commandes et langage de commande UNIX et Linux	J.L. Nebut	184	6
 
- 77	Fonctions et utilisation des systemes Partie II	Ph. Ingels	72	2
+77	Fonctions et utilisation des systemes Partie II	Ph. Ingels	72	2
 
 79	Base de données : une introduction au modèle relationnel	D. Herman, P.Burgevin, P.Fresnais	100	3
 
