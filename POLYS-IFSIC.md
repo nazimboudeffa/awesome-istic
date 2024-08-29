@@ -57,7 +57,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 104	Internet : Les protocoles de transmission de données	B. Cousin	112	3
 
-105	R�seaux locaux et liaisons de donnèes	B. Cousin	88	3
+105	Réseaux locaux et liaisons de donnèes	B. Cousin	88	3
 
 106	Internet : La gestion du réseau	B. Cousin	118	4
 
