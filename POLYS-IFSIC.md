@@ -94,3 +94,5 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 125	Real-time systems (Option STR)	I. Puaut	142	4
 
 EXT1	Introduction � la m�thode B	M. Ducass�	52	GRATU
+
+TOTAL 47 POLYS
