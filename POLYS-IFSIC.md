@@ -31,7 +31,7 @@ Ref. 	Titre	Auteurs	Nombre de pages	Prix en €
 
 87	Probabilités appliquées	R. Marie	139	4
 
-88	Langage EIFFEL Version 5	M. Bousse, J.M. H�lary, B. Houssais, J.L. Nebut, R. Vorc'h	195	6
+88	Langage EIFFEL Version 5	M. Bousse, J.M. Hélary, B. Houssais, J.L. Nebut, R. Vorc'h	195	6
 
 ### 89	Méthodes et outils de l' informatique : Approche fonctionnelle	A. Foret, D. Herman	164	5
 
